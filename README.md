@@ -47,6 +47,7 @@ Table of Contents:
 |`AlphaMed`|[[arXiv](https://www.arxiv.org/abs/2505.17952)]|[[HF (7B)](https://huggingface.co/che111/AlphaMed-7B-instruct-rl)][[HF (8B)](https://huggingface.co/che111/AlphaMed-8B-instruct-rl)]|[[HF](https://huggingface.co/datasets/che111/AlphaMed19K)]|-|
 |`Fleming-R1`|[[arXiv](https://arxiv.org/abs/2509.15279)]|[[HF (7B)](https://huggingface.co/UbiquantAI/Fleming-R1-7B)][[HF (32B)](https://huggingface.co/UbiquantAI/Fleming-R1-32B)]|-|[[Github](https://github.com/UbiquantAI/Fleming-R1)]|
 |`MedGemma`|[[arXiv](https://arxiv.org/abs/2507.05201)]|[[HF (27B)](https://huggingface.co/google/medgemma-27b-text-it)]|-|[[Github](https://github.com/Google-Health/medgemma)]|
+|`AntAngelMed`|-|[[HF (100B)](https://huggingface.co/MedAIBase/AntAngelMed)]|-|[[Github](https://github.com/MedAIBase/AntAngelMed)]|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
