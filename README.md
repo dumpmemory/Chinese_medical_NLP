@@ -118,6 +118,7 @@ Table of Contents:
 |`BIOMEDICA`|[[arXiv](https://arxiv.org/abs/2505.22787)]|[[HF](https://huggingface.co/datasets/BIOMEDICA/biomedica_webdataset_24M)]|24M|
 |`MedVision`|[[arXiv](https://arxiv.org/abs/2511.18676)]|[[HF](https://huggingface.co/datasets/YongchengYAO/MedVision)]|30.8M|
 |`OmniScience`|-|[[HF](https://huggingface.co/datasets/UniParser/OmniScience)]|1.5M|
+|`Open-PMC-18M`|[[arXiv](https://arxiv.org/abs/2506.02738)]|[[HF](https://huggingface.co/datasets/vector-institute/open-pmc-18m)]|18M|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
