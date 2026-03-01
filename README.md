@@ -78,6 +78,9 @@ Table of Contents:
 |`Fleming-VL`|[[arXiv](https://arxiv.org/abs/2511.00916)]|[[HF (8B)](https://huggingface.co/UbiquantAI/Fleming-VL-8B)][[HF (38B)](https://huggingface.co/UbiquantAI/Fleming-VL-38B)]|-|[[Github](https://github.com/UbiquantAI/Fleming-VL)]|
 |`VILA-M3`|[[arXiv](https://arxiv.org/abs/2411.12915)]|[[HF (3B)](https://huggingface.co/MONAI/Llama3-VILA-M3-3B)][[HF (8B)](https://huggingface.co/MONAI/Llama3-VILA-M3-8B)][[HF (13B)](https://huggingface.co/MONAI/Llama3-VILA-M3-13B)]|-|[[Github](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)]|
 |`MedGemma-1.5`|[[Blog](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/)]|[[HF (4B)](https://huggingface.co/google/medgemma-1.5-4b-it)]|-|[[Github](https://github.com/google-health/medgemma)]|
+|`MediX-R1`|[[arXiv](https://arxiv.org/abs/2602.23363)]|[[HF (2B)](https://huggingface.co/MBZUAI/MediX-R1-2B)][[HF (8B)](https://huggingface.co/MBZUAI/MediX-R1-8B)][[HF (30B)](https://huggingface.co/MBZUAI/MediX-R1-30B)]|[[HF](https://huggingface.co/datasets/MBZUAI/medix-rl-data)]|[[Github](https://github.com/mbzuai-oryx/MediX-R1)]|
+|`MedMO`|[[arXiv](https://arxiv.org/abs/2602.06965)]|[[HF (4B)](https://huggingface.co/MBZUAI/MedMO-4B)][[HF (8B)](https://huggingface.co/MBZUAI/MedMO-8B)][[HF (8B-Next)](https://huggingface.co/MBZUAI/MedMO-8B-Next)]|-|[[Github](https://github.com/genmilab/MedMO)]|
+
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
@@ -130,6 +133,7 @@ Table of Contents:
 |:-|:-:|:-:|
 |`MedEvalKit`|[[Github](https://github.com/alibaba-damo-academy/MedEvalKit)]|**（1）Multimodal：**：`MMMU-Medical-test`, `MMMU-Medical-val`, `PMC_VQA`, `OmniMedVQA`, `IU XRAY`, `MedXpertQA-Multimodal`, `CheXpert Plus`, `MIMIC-CXR`, `VQA-RAD`, `SLAKE`, `PATH-VQA`, `MedFrameQA`；**（2）Text-only：**：`MedQA-USMLE`, `MedMCQA`, `PubMedQA`, `Medbullets-op4`, `Medbullets-op5`, `MedXpertQA-Text`, `SuperGPQA`, `HealthBench`, `CMB`, `CMExam`, `CMMLU`, `MedQA-MCMLE`；|
 |`MedBench`|[[Website](https://medbench.opencompass.org.cn/home)]|**Text-only：**：`Med-Exam`, `MedHC`, `MedMC`, `MedSpeQA`, `MedHG`, `MedDG`, `MedLitQA`, `IMCS-V2-MRG`, `DBMHG`, `CMB-Clin-extended`, `DDx-basic`, `DDx-advanced`, `MedTreat`, `CMeEE`, `CMeIE`, `CHIP-CDEE`, `CHIP-CDN`, `CHIP-CTC`, `SMDoc`, `MedSafety`, `DrugCA`, `CriID`|
+|`LiveClin`|[[Github](https://github.com/AQ-MedAI/LiveClin)]|-|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
