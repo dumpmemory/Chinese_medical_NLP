@@ -80,6 +80,9 @@ Table of Contents:
 |`MedGemma-1.5`|[[Blog](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/)]|[[HF (4B)](https://huggingface.co/google/medgemma-1.5-4b-it)]|-|[[Github](https://github.com/google-health/medgemma)]|
 |`MediX-R1`|[[arXiv](https://arxiv.org/abs/2602.23363)]|[[HF (2B)](https://huggingface.co/MBZUAI/MediX-R1-2B)][[HF (8B)](https://huggingface.co/MBZUAI/MediX-R1-8B)][[HF (30B)](https://huggingface.co/MBZUAI/MediX-R1-30B)]|[[HF](https://huggingface.co/datasets/MBZUAI/medix-rl-data)]|[[Github](https://github.com/mbzuai-oryx/MediX-R1)]|
 |`MedMO`|[[arXiv](https://arxiv.org/abs/2602.06965)]|[[HF (4B)](https://huggingface.co/MBZUAI/MedMO-4B)][[HF (8B)](https://huggingface.co/MBZUAI/MedMO-8B)][[HF (8B-Next)](https://huggingface.co/MBZUAI/MedMO-8B-Next)]|-|[[Github](https://github.com/genmilab/MedMO)]|
+|`MedGPT-oss`|[[arXiv](https://arxiv.org/abs/2603.00842)]|-|-|-|
+|`OctoMed`|[[arXiv](https://arxiv.org/abs/2511.23269)]|[[HF (7B)](https://huggingface.co/OctoMed/OctoMed-7B)]|-|-|
+|`QoQ-Med`|[[arXiv](https://arxiv.org/abs/2506.00711)]|[[HF (7B)](https://huggingface.co/ddvd233/QoQ-Med-VL-7B)][[HF (32B)](https://huggingface.co/ddvd233/QoQ-Med-VL-32B)]|-|[[Github](https://github.com/DDVD233/QoQ_Med)]|
 
 
 <div align="right">
