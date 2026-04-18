@@ -125,7 +125,9 @@ Table of Contents:
 |`MedVision`|[[arXiv](https://arxiv.org/abs/2511.18676)]|[[HF](https://huggingface.co/datasets/YongchengYAO/MedVision)]|30.8M|
 |`OmniScience`|-|[[HF](https://huggingface.co/datasets/UniParser/OmniScience)]|1.5M|
 |`Open-PMC-18M`|[[arXiv](https://arxiv.org/abs/2506.02738)]|[[HF](https://huggingface.co/datasets/vector-institute/open-pmc-18m)]|18M|
-|`Project-Imaging-X`|[[Report](https://github.com/uni-medical/Project-Imaging-X/blob/main/project-imaging-x_dataset-survey.pdf)]|[[Github](https://github.com/uni-medical/Project-Imaging-X)]|1,000+ open-access medical image datasets|
+|`Project-Imaging-X`|[[Report](https://github.com/uni-medical/Project-Imaging-X/blob/main/project-imaging-x_dataset-survey.pdf)]|[[HF](https://huggingface.co/datasets/General-Medical-AI/Project-Imaging-X)]|1,000+ open-access medical image datasets|
+|`GMAI-VL-5.5M`|[[arXiv](https://arxiv.org/abs/2411.14522)]|[[HF](https://huggingface.co/datasets/General-Medical-AI/GMAI-VL-5.5M)]|5.5M|
+|`UniMed-5M`|[[arXiv](https://arxiv.org/abs/2510.15710)]|[[HF](https://huggingface.co/datasets/General-Medical-AI/UniMed-5M)]|5M|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
