@@ -84,6 +84,7 @@ Table of Contents:
 |`MedGPT-oss`|[[arXiv](https://arxiv.org/abs/2603.00842)]|-|-|-|
 |`OctoMed`|[[arXiv](https://arxiv.org/abs/2511.23269)]|[[HF (7B)](https://huggingface.co/OctoMed/OctoMed-7B)]|-|-|
 |`QoQ-Med`|[[arXiv](https://arxiv.org/abs/2506.00711)]|[[HF (7B)](https://huggingface.co/ddvd233/QoQ-Med-VL-7B)][[HF (32B)](https://huggingface.co/ddvd233/QoQ-Med-VL-32B)]|-|[[Github](https://github.com/DDVD233/QoQ_Med)]|
+|`MedVLThinker`|[[arXiv](https://arxiv.org/abs/2508.02669)]|[[HF (3B/7B/32B)](https://huggingface.co/collections/UCSC-VLAA/medvlthinker)]|[[HF](https://huggingface.co/collections/UCSC-VLAA/medvlthinker-688f52224fb7ff7d965d581d)]|[[Github](https://github.com/UCSC-VLAA/MedVLThinker)]|
 
 
 <div align="right">
@@ -131,6 +132,7 @@ Table of Contents:
 |`GMAI-VL-5.5M`|[[arXiv](https://arxiv.org/abs/2411.14522)]|[[HF](https://huggingface.co/datasets/General-Medical-AI/GMAI-VL-5.5M)]|5.5M|
 |`UniMed-5M`|[[arXiv](https://arxiv.org/abs/2510.15710)]|[[HF](https://huggingface.co/datasets/General-Medical-AI/UniMed-5M)]|5M|
 |`BreastStage`|[[arXiv](https://arxiv.org/abs/2606.04911)]|[[HF](https://www.modelscope.cn/datasets/YYangYang/BreastStage)]|1.86M|
+|`OpenMedReason`|[[arXiv](https://arxiv.org/pdf/2606.12169)]|[[HF](https://huggingface.co/datasets/neginb/OpenMedReason)]|193k|
 
 
 <div align="right">
